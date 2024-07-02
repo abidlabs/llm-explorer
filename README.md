@@ -27,9 +27,9 @@ The motivation behind the Open LLM Explorer is to provide users with a straightf
 
 By leveraging the Open LLM Leaderboard, we ensure that you are working with the best models available. Whether you are a researcher, developer, or enthusiast, this tool is designed to help you make informed decisions about which language model best fits your needs.
 
-## Try It Out!
+## Try It Out on 🤗 Spaces!
 
-You can try the Open LLM Explorer for free. There are no rate limits if you have an HF Pro membership. Click [here](#) to start exploring the top language models.
+You can try the Open LLM Explorer for free. There are no rate limits if you have an HF Pro membership. Click [here](https://huggingface.co/spaces/abidlabs/llm-explorer) to start exploring the top language models.
 
 ## Contributing
 

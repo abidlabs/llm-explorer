@@ -43,8 +43,8 @@ We welcome contributions from the community! If you're interested in improving t
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/open-llm-explorer.git
-   cd open-llm-explorer
+   git clone git@github.com:abidlabs/llm-explorer.git
+   cd llm-explorer
    ```
 
 2. **Install the dependencies**:
